@@ -116,8 +116,8 @@ async def get_combined_update():
             
             <div class="section">
                 <h2>📢 Telegram</h2>
-                <a href="https://t.me/Flexbasei" target="_blank" class="telegram-link">📱 Flexbase: @Flexbasei</a>
-                <a href="https://t.me/spideerio_yt" target="_blank" class="telegram-link">📱 LORD MORPHEUS: @spideerio_yt</a>
+                <a href="https://t.me/henntaiiz" target="_blank" class="telegram-link">📱 Gấu Ngốc Nghếch: @henntaiiz</a>
+                <a href="https://t.me/yuannguoivn" target="_blank" class="telegram-link">📱 Yuan Người Việt: @yuannguoivn</a>
             </div>
         </div>
     </body>
